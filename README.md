@@ -1,4 +1,4 @@
-# Spacex Launch Programs Coding Assignment
+# Spacex Launch Programs Coding Assignment [![Build Status](https://travis-ci.com/GreatGK/Publicis-Sapient-Coding-Assignment-SpaceX-Launch-Programs.svg?token=YWCqv3LnsBAKe7p5pikE&branch=main)](https://travis-ci.com/github/GreatGK/Publicis-Sapient-Coding-Assignment-SpaceX-Launch-Programs)
 
 ## About the Assignment Requirements
 
