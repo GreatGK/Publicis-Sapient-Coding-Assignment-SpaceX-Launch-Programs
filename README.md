@@ -100,11 +100,11 @@ The application is deployed on **Heroku**, and **Travis** is used for CI. It is 
 
 **Using Lighthouse in Chrome DevTools**
 
-![lighthouse score](https://imgur.com/cMpAvy9)
+![lighthouse score](https://imgur.com/cMpAvy9.png)
 
 **Using [web.dev](https://web.dev/measure)**
 
-![lighthouse score](https://imgur.com/Ikab7Rr)
+![lighthouse score](https://imgur.com/Ikab7Rr.png)
 
 [web.dev report](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fsapient-coding-assignment.herokuapp.com%2F)
 
